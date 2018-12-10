@@ -1,0 +1,58 @@
+.main {
+    color: #888;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 100px;  
+    margin-left: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    box-shadow:0px 0px 10px 10px #888;
+}
+.main01 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 100px;
+    padding-left: 100px;
+}
+.input01 { 
+    margin-top: 6px;
+    width: 350px;
+    height: 25px;
+    border-radius: 5px;
+    border-color:gray;
+}
+.input02 {
+    margin-top:18px;
+}
+table {
+    
+    text-align: center;
+}
+.widthtd {
+    width: 80px;
+}
+.heighttd {
+    height: 45px;
+    padding-right: 50px;
+    width: 400px;
+}
+textarea {
+       width: 110ch; height: 10ch;
+}
+button {
+    background-color:darkslategrey;
+    border-radius: 5px;
+    width: 100px;
+    height: 45px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 17px;
+    margin-left: 40%;
+}
+footer {
+    color: black;
+    font-size: 12px;
+}
+input[type="radio"] {
+     width: 15px;
+     height: 15px;
+}
